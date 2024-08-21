@@ -1,4 +1,4 @@
-[<img src=https://github.com/eriksmithmeyer/eriksmithmeyer/blob/main/academicegg-banner%20-%20thumbnail_original.png height=100>]
+<img src=https://github.com/eriksmithmeyer/eriksmithmeyer/blob/main/academicegg-banner%20-%20thumbnail_original.png height=200>
 
 # Erik Smith-Meyer
 
