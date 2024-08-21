@@ -13,6 +13,9 @@ Python, R, SQL, Excel (VBA), Power BI
 ### Youtube
 https://www.youtube.com/@academicegg6042
 
+### Languages
+Norwegian (native), English (fluent), Swedish, Danish
+
 
 
 
