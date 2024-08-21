@@ -1,3 +1,5 @@
+(https://github.com/eriksmithmeyer/eriksmithmeyer/blob/main/academicegg-banner%20-%20thumbnail_original.png)
+
 # Erik Smith-Meyer
 
 Hi, I'm Erik from Norway and I help companies with data analysis all the way from wrangling of really messy data to creating reports. I really like to make sense of data and to communicate complex insight in a clear and consise manner. What is fantastic about my job is that I always learn something new.
