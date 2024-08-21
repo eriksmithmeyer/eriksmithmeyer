@@ -2,7 +2,7 @@
 
 # Erik Smith-Meyer
 
-Hi, I'm Erik from Norway and I help companies with data analysis all the way from wrangling of really messy data to creating reports. I really like to make sense of data and to communicate complex insight in a clear and consise manner. What is fantastic about my job is that I always learn something new.
+Hi, I'm Erik from Norway and I help companies with data analysis all the way from wrangling of really messy data to creating reports. I like to make sense of data and to communicate complex insight in a clear and consise manner. What is fantastic about my job is that I always learn something new.
 
 I have been lecturing on finance, econometrics, data engineering and programming for business students for a number of years. I have also worked in the banking and risk management sector with statistics and programming.
 
