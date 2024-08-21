@@ -1,4 +1,4 @@
-(https://github.com/eriksmithmeyer/eriksmithmeyer/blob/main/academicegg-banner%20-%20thumbnail_original.png)
+![Academic Egg](https://github.com/eriksmithmeyer/eriksmithmeyer/blob/main/academicegg-banner%20-%20thumbnail_original.png)
 
 # Erik Smith-Meyer
 
