@@ -1,5 +1,3 @@
-<img src=https://github.com/eriksmithmeyer/eriksmithmeyer/blob/main/academicegg-banner%20-%20thumbnail_original.png height=200>
-
 Hi, I'm Erik from Norway and I help companies with data analysis all the way from wrangling of really messy data to creating reports. 
 
 I have a PhD in Energy Finance along with a MSc and a BSc in Financial Economics.
