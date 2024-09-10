@@ -4,7 +4,7 @@ I have a PhD in Energy Finance along with a MSc and a BSc in Financial Economics
 
 My ultimate goal is to help you to get clear and robust answers from data.
 
-I have been lecturing on finance, econometrics, data engineering and programming for business students for a number of years. Also, I have worked in the banking and risk management sector with statistics and programming.
+I have been lecturing on finance, econometrics, data engineering, and programming for business students for several years. Also, I have worked in the banking and risk management sector with statistics and programming.
 
 ## Skills and experience
 ### Frameworks
