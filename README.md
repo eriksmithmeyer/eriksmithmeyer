@@ -1,8 +1,8 @@
 <img src=https://github.com/eriksmithmeyer/eriksmithmeyer/blob/main/academicegg-banner%20-%20thumbnail_original.png height=200>
 
-# Erik Smith-Meyer
+Hi, I'm Erik from Norway and I help companies with data analysis all the way from wrangling of really messy data to creating reports. I have a PhD in Energy Finance along with a MSc and a BSc in Financial Economics.
 
-Hi, I'm Erik from Norway and I help companies with data analysis all the way from wrangling of really messy data to creating reports. I like to make sense of data and to communicate complex insight in a clear and consise manner. What is fantastic about my job is that I always learn something new.
+I want to help you to get clear and robust answers from data.
 
 I have been lecturing on finance, econometrics, data engineering and programming for business students for a number of years. I have also worked in the banking and risk management sector with statistics and programming.
 
@@ -15,6 +15,7 @@ https://www.youtube.com/@academicegg6042
 
 ### Languages
 Norwegian (native), English (fluent), Swedish, Danish
+
 
 
 
